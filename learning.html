@@ -1,0 +1,176 @@
+<!-- [file name]: learning.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Learning - EduGenius AI</title>
+    <link rel="stylesheet" href="styles/learning.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Background Animation -->
+    <div class="background-animation">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+
+    <!-- Header -->
+    <header class="learning-header">
+        <div class="header-content">
+            <button onclick="goBack()" class="back-btn">
+                <i class="fas fa-arrow-left"></i>
+                Back to Generator
+            </button>
+            <div class="header-title">
+                <h1><i class="fas fa-robot"></i> Interactive Learning Assistant</h1>
+                <p id="courseTitle">Learn with AI Guidance</p>
+            </div>
+            <div class="header-actions">
+                <button onclick="toggleDarkMode()" class="theme-btn">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="learning-container">
+        <!-- Sidebar - Course Structure -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h3><i class="fas fa-list-alt"></i> Course Structure</h3>
+                <button onclick="toggleSidebar()" class="sidebar-toggle">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+            
+            <div class="course-progress">
+                <div class="progress-info">
+                    <span>Progress</span>
+                    <span id="progressPercent">0%</span>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+            </div>
+
+            <div class="units-list" id="unitsList">
+                <!-- Units will be dynamically populated -->
+            </div>
+
+            <div class="quick-actions">
+                <h4>Quick Actions</h4>
+                <button onclick="askAboutCurrentTopic()" class="quick-btn">
+                    <i class="fas fa-question-circle"></i>
+                    Ask about Current Topic
+                </button>
+                <button onclick="requestExample()" class="quick-btn">
+                    <i class="fas fa-lightbulb"></i>
+                    Request Example
+                </button>
+                <button onclick="quizMe()" class="quick-btn">
+                    <i class="fas fa-brain"></i>
+                    Quiz Me
+                </button>
+                <button onclick="suggestPractice()" class="quick-btn">
+                    <i class="fas fa-dumbbell"></i>
+                    Practice Exercise
+                </button>
+            </div>
+        </aside>
+
+        <!-- Chat Area -->
+        <section class="chat-area">
+            <!-- Welcome Message -->
+            <div class="welcome-message" id="welcomeMessage">
+                <div class="welcome-content">
+                    <div class="ai-avatar">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <div class="welcome-text">
+                        <h3>Hello! I'm your AI Learning Assistant 🤖</h3>
+                        <p>I'm here to help you learn <strong id="learningGoalText">your chosen topic</strong>. You can:</p>
+                        <ul>
+                            <li>Ask questions about any topic in your syllabus</li>
+                            <li>Request examples and explanations</li>
+                            <li>Get practice exercises</li>
+                            <li>Take quizzes to test your knowledge</li>
+                            <li>Get personalized learning guidance</li>
+                        </ul>
+                        <p>What would you like to learn about first?</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chat Messages -->
+            <div class="chat-messages" id="chatMessages">
+                <!-- Messages will be added here dynamically -->
+            </div>
+
+            <!-- Quick Suggestions -->
+            <div class="quick-suggestions" id="quickSuggestions">
+                <div class="suggestions-header">
+                    <span>Quick Questions:</span>
+                </div>
+                <div class="suggestion-chips">
+                    <div class="suggestion-chip" onclick="sendSuggestion('Explain the main concepts of this course')">
+                        Explain main concepts
+                    </div>
+                    <div class="suggestion-chip" onclick="sendSuggestion('Give me a practical example')">
+                        Practical example
+                    </div>
+                    <div class="suggestion-chip" onclick="sendSuggestion('What are the key things I should focus on?')">
+                        Key focus areas
+                    </div>
+                    <div class="suggestion-chip" onclick="sendSuggestion('Create a study plan for me')">
+                        Study plan
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chat Input -->
+            <div class="chat-input-container">
+                <div class="input-wrapper">
+                    <textarea 
+                        id="messageInput" 
+                        placeholder="Ask me anything about your course... (Press Enter to send, Shift+Enter for new line)"
+                        rows="1"
+                    ></textarea>
+                    <button id="sendButton" onclick="sendMessage()">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+                <div class="input-actions">
+                    <button onclick="clearChat()" class="action-btn">
+                        <i class="fas fa-trash"></i>
+                        Clear Chat
+                    </button>
+                    <button onclick="exportChat()" class="action-btn">
+                        <i class="fas fa-download"></i>
+                        Export Chat
+                    </button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay" class="loading-overlay hidden">
+        <div class="loading-content">
+            <div class="thinking-animation">
+                <i class="fas fa-robot"></i>
+                <div class="thinking-dots">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <p>AI Assistant is thinking...</p>
+        </div>
+    </div>
+
+    <script src="scripts/learning.js"></script>
+</body>
+</html>

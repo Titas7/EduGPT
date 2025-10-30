@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduGenius AI - Lesson Plan Generator</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Animated Background -->
+    <div class="background-animation">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+        <div class="shape shape-4"></div>
+    </div>
+
+    <!-- Main Container -->
+    <div class="container">
+        <!-- Header Section -->
+        <header class="header">
+            <div class="logo">
+                <i class="fas fa-brain"></i>
+                <h1>EduGenius AI</h1>
+            </div>
+            <p class="tagline">Transform Learning Goals into Masterpiece Lesson Plans</p>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Input Section -->
+            <section class="input-section">
+                <div class="card hero-card">
+                    <div class="hero-content">
+                        <h2>🎯 Create Your Perfect Lesson Plan</h2>
+                        <p class="hero-description">Enter your learning goal and watch AI generate a comprehensive, structured lesson plan with perfect timing and key concepts.</p>
+                        
+                        <div class="input-group">
+                            <div class="input-with-icon">
+                                <i class="fas fa-bullseye"></i>
+                                <textarea 
+                                    id="learningGoal" 
+                                    placeholder="What do you want to teach or learn? (e.g., 'React Native in 10 days', 'Data Science Fundamentals', 'Web Development Mastery')"
+                                    rows="3"
+                                ></textarea>
+                            </div>
+                        </div>
+
+                        <!-- Quick Examples -->
+                        <div class="examples">
+                            <p class="examples-label">Try these popular examples:</p>
+                            <div class="example-chips">
+                                <div class="chip" data-goal="React Native in 10 days">
+                                    <i class="fab fa-react"></i>
+                                    React Native in 10 days
+                                </div>
+                                <div class="chip" data-goal="Data Science with Python">
+                                    <i class="fas fa-chart-line"></i>
+                                    Data Science
+                                </div>
+                                <div class="chip" data-goal="Web Development Fundamentals">
+                                    <i class="fas fa-code"></i>
+                                    Web Development
+                                </div>
+                                <div class="chip" data-goal="Machine Learning Basics">
+                                    <i class="fas fa-robot"></i>
+                                    Machine Learning
+                                </div>
+                            </div>
+                        </div>
+
+                        <button id="generateBtn" class="generate-btn">
+                            <i class="fas fa-magic"></i>
+                            Generate AI Lesson Plan
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Loading Section -->
+            <section id="loadingSection" class="loading-section hidden">
+                <div class="loading-card">
+                    <div class="ai-thinking">
+                        <div class="ai-icon">
+                            <i class="fas fa-robot"></i>
+                        </div>
+                        <div class="thinking-dots">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+                    <h3>AI is crafting your lesson plan</h3>
+                    <p>Analyzing your goal and creating the perfect learning structure...</p>
+                    
+                    <div class="progress-steps">
+                        <div class="step active">
+                            <div class="step-icon">
+                                <i class="fas fa-lightbulb"></i>
+                            </div>
+                            <span>Analyzing Goal</span>
+                        </div>
+                        <div class="step">
+                            <div class="step-icon">
+                                <i class="fas fa-layer-group"></i>
+                            </div>
+                            <span>Structuring Content</span>
+                        </div>
+                        <div class="step">
+                            <div class="step-icon">
+                                <i class="fas fa-clock"></i>
+                            </div>
+                            <span>Optimizing Timing</span>
+                        </div>
+                        <div class="step">
+                            <div class="step-icon">
+                                <i class="fas fa-check-circle"></i>
+                            </div>
+                            <span>Finalizing Plan</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Results Section -->
+            <section id="resultsSection" class="results-section hidden">
+                <div class="results-header">
+                    <div class="header-content">
+                        <h2><i class="fas fa-rocket"></i> Your AI-Generated Lesson Plan</h2>
+                        <p class="results-subtitle">Custom tailored learning path designed by artificial intelligence</p>
+                    </div>
+                    
+                    <!-- Download Buttons -->
+                    <div id="downloadSection" class="download-section">
+                        <div class="download-buttons">
+                            <button onclick="downloadSyllabus()" class="download-btn btn-primary">
+                                <i class="fas fa-download"></i>
+                                Syllabus
+                            </button>
+                            <button onclick="downloadLessonPlan()" class="download-btn btn-secondary">
+                                <i class="fas fa-file-code"></i>
+                                Lesson Plan
+                            </button>
+                            <button onclick="downloadTextPlan()" class="download-btn btn-success">
+                                <i class="fas fa-file-alt"></i>
+                                Text Version
+                            </button>
+                            <button onclick="downloadAll()" class="download-btn btn-premium">
+                                <i class="fas fa-file-archive"></i>
+                                All Files
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Course Overview -->
+                <div id="courseOverview" class="course-overview card">
+                    <!-- Dynamic content -->
+                </div>
+
+                <!-- Units Container -->
+                <div id="unitsContainer" class="units-container">
+                    <!-- Dynamic units -->
+                </div>
+
+                <!-- Action Footer -->
+                <div class="action-footer">
+                    <button onclick="generateNewPlan()" class="new-plan-btn">
+                        <i class="fas fa-plus"></i>
+                        Create Another Lesson Plan
+                    </button>
+                </div>
+            </section>
+        </main>
+        <!-- Add this in the results section after the download buttons -->
+        <div class="learning-actions">
+            <button onclick="startInteractiveLearning()" class="learning-btn">
+                <i class="fas fa-robot"></i>
+                Start Interactive Learning
+            </button>
+        </div>
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <p>Powered by Advanced AI Technology • Crafted with ❤️ for Educators & Learners Worldwide</p>
+                <div class="footer-features">
+                    <span><i class="fas fa-bolt"></i> Lightning Fast</span>
+                    <span><i class="fas fa-shield-alt"></i> 100% Private</span>
+                    <span><i class="fas fa-infinity"></i> Unlimited Generations</span>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+
+    <!-- Confetti Celebration -->
+    <canvas id="confettiCanvas"></canvas>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="scripts/app.js"></script>
+</body>
+</html>

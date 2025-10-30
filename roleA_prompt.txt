@@ -1,0 +1,1 @@
+Create a structured syllabus for {goal}. Return JSON only.

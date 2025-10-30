@@ -1,0 +1,174 @@
+{
+  "goal": "html basics in 10 days",
+  "units": [
+    {
+      "title": "Day 1: Introduction to HTML and Basic Structure",
+      "lessons": [
+        "What is HTML? (Definition, history, purpose)",
+        "Setting up your environment (Text editors, browsers)",
+        "Basic HTML structure (DOCTYPE, html, head, body tags)",
+        "Understanding elements and attributes",
+        "Writing your first HTML document and displaying it in a browser"
+      ],
+      "outcomes": [
+        "Understand the fundamental purpose of HTML.",
+        "Set up a development environment for writing and viewing HTML.",
+        "Create a basic HTML document with the essential structural tags.",
+        "Distinguish between HTML elements and attributes."
+      ]
+    },
+    {
+      "title": "Day 2: Text Formatting and Semantic Elements",
+      "lessons": [
+        "Heading tags (h1-h6)",
+        "Paragraph tag (p)",
+        "Emphasis (em) and Strong (strong) tags",
+        "Line breaks (br) and Horizontal rules (hr)",
+        "Semantic elements (article, aside, nav, header, footer, section)"
+      ],
+      "outcomes": [
+        "Format text using heading and paragraph tags.",
+        "Apply emphasis and importance to text using semantic tags.",
+        "Utilize line breaks and horizontal rules for visual structure.",
+        "Understand and implement semantic elements to improve HTML structure and SEO."
+      ]
+    },
+    {
+      "title": "Day 3: Lists and Links",
+      "lessons": [
+        "Unordered lists (ul, li)",
+        "Ordered lists (ol, li)",
+        "Definition lists (dl, dt, dd)",
+        "Creating hyperlinks (a tag - href, target attributes)",
+        "Linking to internal and external resources",
+        "Anchor links (linking to specific sections within a page)"
+      ],
+      "outcomes": [
+        "Create different types of lists to organize information.",
+        "Create hyperlinks to connect to other web pages and resources.",
+        "Implement internal and external links effectively.",
+        "Use anchor links to navigate within a single webpage."
+      ]
+    },
+    {
+      "title": "Day 4: Images and Media",
+      "lessons": [
+        "Inserting images (img tag - src, alt attributes)",
+        "Image formats (JPEG, PNG, GIF, SVG)",
+        "Controlling image size and alignment",
+        "Adding video (video tag - src, controls, width, height)",
+        "Adding audio (audio tag - src, controls)",
+        "Understanding accessibility considerations for media"
+      ],
+      "outcomes": [
+        "Embed images into web pages using the `img` tag.",
+        "Choose the appropriate image format for different use cases.",
+        "Control the size and placement of images.",
+        "Embed video and audio into web pages using the `video` and `audio` tags.",
+        "Understand the basics of providing alternative text and captions for accessibility."
+      ]
+    },
+    {
+      "title": "Day 5: Tables",
+      "lessons": [
+        "Creating tables (table, tr, th, td tags)",
+        "Table headers (th)",
+        "Table rows (tr)",
+        "Table data (td)",
+        "Spanning rows and columns (rowspan, colspan attributes)",
+        "Table captions (caption tag)"
+      ],
+      "outcomes": [
+        "Construct tables to display data in a structured format.",
+        "Utilize table headers, rows, and data cells effectively.",
+        "Span rows and columns to create complex table layouts.",
+        "Add a descriptive caption to tables."
+      ]
+    },
+    {
+      "title": "Day 6: Forms - Input Types",
+      "lessons": [
+        "Creating forms (form tag - action, method attributes)",
+        "Input types (text, password, email, number, date, checkbox, radio, file)",
+        "Labeling form elements (label tag - for attribute)",
+        "Placeholder text (placeholder attribute)",
+        "Required fields (required attribute)",
+        "Using the 'name' attribute for form data submission"
+      ],
+      "outcomes": [
+        "Create HTML forms to collect user input.",
+        "Utilize different input types to gather various forms of data.",
+        "Properly label form elements for accessibility and usability.",
+        "Set placeholder text and require specific fields."
+      ]
+    },
+    {
+      "title": "Day 7: Forms - Other Elements and Attributes",
+      "lessons": [
+        "Textarea (textarea tag - rows, cols)",
+        "Select dropdowns (select, option tags)",
+        "Button (button tag - type attribute)",
+        "Fieldsets and Legends (fieldset, legend tags)",
+        "Form validation attributes (min, max, pattern)",
+        "Understanding form submission"
+      ],
+      "outcomes": [
+        "Implement textareas for multi-line text input.",
+        "Create select dropdowns to provide users with a list of options.",
+        "Create different types of buttons for form submission and other actions.",
+        "Organize form elements into fieldsets with legends.",
+        "Utilize form validation attributes to ensure data integrity."
+      ]
+    },
+    {
+      "title": "Day 8: Divs and Spans",
+      "lessons": [
+        "Understanding the div tag (block-level element)",
+        "Understanding the span tag (inline element)",
+        "Using divs for layout and structure",
+        "Using spans for styling inline elements",
+        "Nesting divs and spans",
+        "Introduction to the concept of CSS classes and IDs"
+      ],
+      "outcomes": [
+        "Differentiate between block-level and inline elements.",
+        "Use divs to create structural sections within a webpage.",
+        "Use spans to style specific inline text elements.",
+        "Nest divs and spans to achieve complex layouts.",
+        "Understand the basic principles of applying CSS classes and IDs to HTML elements."
+      ]
+    },
+    {
+      "title": "Day 9: HTML5 Semantic Elements (Advanced)",
+      "lessons": [
+        "More in-depth look at article, aside, nav, header, footer, section, main",
+        "The `figure` and `figcaption` elements",
+        "The `mark` element",
+        "The `time` element",
+        "When and how to use these elements effectively",
+        "Accessibility best practices for semantic elements"
+      ],
+      "outcomes": [
+        "Confidently use HTML5 semantic elements to create well-structured and accessible web pages.",
+        "Understand the specific purpose of each element and how it contributes to the overall meaning of the content.",
+        "Apply semantic elements to improve SEO and accessibility."
+      ]
+    },
+    {
+      "title": "Day 10: Review and Project",
+      "lessons": [
+        "Review of all HTML concepts covered",
+        "Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page)",
+        "Debugging and troubleshooting common HTML errors",
+        "Resources for further learning (HTML documentation, online courses)",
+        "Q&A session"
+      ],
+      "outcomes": [
+        "Reinforce understanding of all HTML concepts covered in the past 9 days.",
+        "Apply acquired knowledge to build a functional webpage.",
+        "Develop problem-solving skills for debugging HTML code.",
+        "Identify resources for continued learning and improvement."
+      ]
+    }
+  ]
+}

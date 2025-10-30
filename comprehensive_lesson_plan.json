@@ -1,0 +1,2365 @@
+{
+  "course": "html basics in 10 days",
+  "generated_date": "2025-10-15",
+  "total_estimated_duration": "8.0 hours",
+  "total_units": 10,
+  "comprehensive_lesson_plan": {
+    "unit_1": {
+      "unit_title": "Day 1: Introduction to HTML and Basic Structure",
+      "unit_objective": "Master day 1: introduction to html and basic structure concepts and achieve: Understand the fundamental purpose of HTML., Set up a development environment for writing and viewing HTML.",
+      "unit_outcomes": [
+        "Understand the fundamental purpose of HTML.",
+        "Set up a development environment for writing and viewing HTML.",
+        "Create a basic HTML document with the essential structural tags.",
+        "Distinguish between HTML elements and attributes."
+      ],
+      "unit_duration": "0.8 hours",
+      "total_lessons": 5,
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "What is HTML? (Definition, history, purpose)",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding What is HTML? (Definition, history, purpose)",
+            "Practical applications of What is HTML? (Definition, history, purpose)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of What is HTML? (Definition, history, purpose)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in What is HTML? (Definition, history, purpose) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Basic computer literacy",
+            "Willingness to learn"
+          ],
+          "assessment_methods": [
+            "Practical exercise on What is HTML? (Definition, history, purpose)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Setting up your environment (Text editors, browsers)",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Setting up your environment (Text editors, browsers)",
+            "Practical applications of Setting up your environment (Text editors, browsers)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Setting up your environment (Text editors, browsers)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Setting up your environment (Text editors, browsers) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 1: Introduction to HTML and Basic Structure",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Setting up your environment (Text editors, browsers)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Basic HTML structure (DOCTYPE, html, head, body tags)",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concepts",
+            "Fundamental Techniques",
+            "Essential Skills"
+          ],
+          "important_topics": [
+            "Understanding Basic HTML structure (DOCTYPE, html, head, body tags)",
+            "Practical applications of Basic HTML structure (DOCTYPE, html, head, body tags)",
+            "Deep dive into Core Concepts",
+            "Deep dive into Fundamental Techniques"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Basic HTML structure (DOCTYPE, html, head, body tags)",
+            "Apply Core Concepts in practical scenarios",
+            "Demonstrate proficiency in Basic HTML structure (DOCTYPE, html, head, body tags) techniques",
+            "Analyze relationships between Core Concepts and Fundamental Techniques"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 1: Introduction to HTML and Basic Structure",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Basic HTML structure (DOCTYPE, html, head, body tags)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Understanding elements and attributes",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Understanding elements and attributes",
+            "Practical applications of Understanding elements and attributes",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Understanding elements and attributes",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Understanding elements and attributes techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 1: Introduction to HTML and Basic Structure",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Understanding elements and attributes",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Writing your first HTML document and displaying it in a browser",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Writing your first HTML document and displaying it in a browser",
+            "Practical applications of Writing your first HTML document and displaying it in a browser",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Writing your first HTML document and displaying it in a browser",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Writing your first HTML document and displaying it in a browser techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 1: Introduction to HTML and Basic Structure",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Writing your first HTML document and displaying it in a browser",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_title": "Day 2: Text Formatting and Semantic Elements",
+      "unit_objective": "Master day 2: text formatting and semantic elements concepts and achieve: Format text using heading and paragraph tags., Apply emphasis and importance to text using semantic tags.",
+      "unit_outcomes": [
+        "Format text using heading and paragraph tags.",
+        "Apply emphasis and importance to text using semantic tags.",
+        "Utilize line breaks and horizontal rules for visual structure.",
+        "Understand and implement semantic elements to improve HTML structure and SEO."
+      ],
+      "unit_duration": "0.8 hours",
+      "total_lessons": 5,
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Heading tags (h1-h6)",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Heading tags (h1-h6)",
+            "Practical applications of Heading tags (h1-h6)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Heading tags (h1-h6)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Heading tags (h1-h6) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Basic computer literacy",
+            "Willingness to learn"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Heading tags (h1-h6)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Paragraph tag (p)",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Paragraph tag (p)",
+            "Practical applications of Paragraph tag (p)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Paragraph tag (p)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Paragraph tag (p) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 2: Text Formatting and Semantic Elements",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Paragraph tag (p)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Emphasis (em) and Strong (strong) tags",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Emphasis (em) and Strong (strong) tags",
+            "Practical applications of Emphasis (em) and Strong (strong) tags",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Emphasis (em) and Strong (strong) tags",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Emphasis (em) and Strong (strong) tags techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 2: Text Formatting and Semantic Elements",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Emphasis (em) and Strong (strong) tags",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Line breaks (br) and Horizontal rules (hr)",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Line breaks (br) and Horizontal rules (hr)",
+            "Practical applications of Line breaks (br) and Horizontal rules (hr)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Line breaks (br) and Horizontal rules (hr)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Line breaks (br) and Horizontal rules (hr) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 2: Text Formatting and Semantic Elements",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Line breaks (br) and Horizontal rules (hr)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Semantic elements (article, aside, nav, header, footer, section)",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Semantic elements (article, aside, nav, header, footer, section)",
+            "Practical applications of Semantic elements (article, aside, nav, header, footer, section)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Semantic elements (article, aside, nav, header, footer, section)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Semantic elements (article, aside, nav, header, footer, section) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 2: Text Formatting and Semantic Elements",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Semantic elements (article, aside, nav, header, footer, section)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_title": "Day 3: Lists and Links",
+      "unit_objective": "Master day 3: lists and links concepts and achieve: Create different types of lists to organize information., Create hyperlinks to connect to other web pages and resources.",
+      "unit_outcomes": [
+        "Create different types of lists to organize information.",
+        "Create hyperlinks to connect to other web pages and resources.",
+        "Implement internal and external links effectively.",
+        "Use anchor links to navigate within a single webpage."
+      ],
+      "unit_duration": "0.8 hours",
+      "total_lessons": 6,
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Unordered lists (ul, li)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Unordered lists (ul, li)",
+            "Practical applications of Unordered lists (ul, li)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Unordered lists (ul, li)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Unordered lists (ul, li) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Basic computer literacy",
+            "Willingness to learn"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Unordered lists (ul, li)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Ordered lists (ol, li)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Ordered lists (ol, li)",
+            "Practical applications of Ordered lists (ol, li)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Ordered lists (ol, li)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Ordered lists (ol, li) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 3: Lists and Links",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Ordered lists (ol, li)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Definition lists (dl, dt, dd)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Definition lists (dl, dt, dd)",
+            "Practical applications of Definition lists (dl, dt, dd)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Definition lists (dl, dt, dd)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Definition lists (dl, dt, dd) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 3: Lists and Links",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Definition lists (dl, dt, dd)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Creating hyperlinks (a tag - href, target attributes)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Creating hyperlinks (a tag - href, target attributes)",
+            "Practical applications of Creating hyperlinks (a tag - href, target attributes)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Creating hyperlinks (a tag - href, target attributes)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Creating hyperlinks (a tag - href, target attributes) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 3: Lists and Links",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Creating hyperlinks (a tag - href, target attributes)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Linking to internal and external resources",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Linking to internal and external resources",
+            "Practical applications of Linking to internal and external resources",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Linking to internal and external resources",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Linking to internal and external resources techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 3: Lists and Links",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Linking to internal and external resources",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 6,
+          "lesson_title": "Anchor links (linking to specific sections within a page)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Anchor links (linking to specific sections within a page)",
+            "Practical applications of Anchor links (linking to specific sections within a page)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Anchor links (linking to specific sections within a page)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Anchor links (linking to specific sections within a page) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 3: Lists and Links",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Anchor links (linking to specific sections within a page)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_title": "Day 4: Images and Media",
+      "unit_objective": "Master day 4: images and media concepts and achieve: Embed images into web pages using the `img` tag., Choose the appropriate image format for different use cases.",
+      "unit_outcomes": [
+        "Embed images into web pages using the `img` tag.",
+        "Choose the appropriate image format for different use cases.",
+        "Control the size and placement of images.",
+        "Embed video and audio into web pages using the `video` and `audio` tags.",
+        "Understand the basics of providing alternative text and captions for accessibility."
+      ],
+      "unit_duration": "0.8 hours",
+      "total_lessons": 6,
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Inserting images (img tag - src, alt attributes)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Inserting images (img tag - src, alt attributes)",
+            "Practical applications of Inserting images (img tag - src, alt attributes)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Inserting images (img tag - src, alt attributes)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Inserting images (img tag - src, alt attributes) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Basic computer literacy",
+            "Willingness to learn"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Inserting images (img tag - src, alt attributes)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Image formats (JPEG, PNG, GIF, SVG)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Image formats (JPEG, PNG, GIF, SVG)",
+            "Practical applications of Image formats (JPEG, PNG, GIF, SVG)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Image formats (JPEG, PNG, GIF, SVG)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Image formats (JPEG, PNG, GIF, SVG) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 4: Images and Media",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Image formats (JPEG, PNG, GIF, SVG)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Controlling image size and alignment",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Controlling image size and alignment",
+            "Practical applications of Controlling image size and alignment",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Controlling image size and alignment",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Controlling image size and alignment techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 4: Images and Media",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Controlling image size and alignment",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Adding video (video tag - src, controls, width, height)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Adding video (video tag - src, controls, width, height)",
+            "Practical applications of Adding video (video tag - src, controls, width, height)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Adding video (video tag - src, controls, width, height)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Adding video (video tag - src, controls, width, height) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 4: Images and Media",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Adding video (video tag - src, controls, width, height)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Adding audio (audio tag - src, controls)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Adding audio (audio tag - src, controls)",
+            "Practical applications of Adding audio (audio tag - src, controls)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Adding audio (audio tag - src, controls)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Adding audio (audio tag - src, controls) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 4: Images and Media",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Adding audio (audio tag - src, controls)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 6,
+          "lesson_title": "Understanding accessibility considerations for media",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Understanding accessibility considerations for media",
+            "Practical applications of Understanding accessibility considerations for media",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Understanding accessibility considerations for media",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Understanding accessibility considerations for media techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 4: Images and Media",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Understanding accessibility considerations for media",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_title": "Day 5: Tables",
+      "unit_objective": "Master day 5: tables concepts and achieve: Construct tables to display data in a structured format., Utilize table headers, rows, and data cells effectively.",
+      "unit_outcomes": [
+        "Construct tables to display data in a structured format.",
+        "Utilize table headers, rows, and data cells effectively.",
+        "Span rows and columns to create complex table layouts.",
+        "Add a descriptive caption to tables."
+      ],
+      "unit_duration": "0.8 hours",
+      "total_lessons": 6,
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Creating tables (table, tr, th, td tags)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Creating tables (table, tr, th, td tags)",
+            "Practical applications of Creating tables (table, tr, th, td tags)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Creating tables (table, tr, th, td tags)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Creating tables (table, tr, th, td tags) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Basic computer literacy",
+            "Willingness to learn"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Creating tables (table, tr, th, td tags)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Table headers (th)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Table headers (th)",
+            "Practical applications of Table headers (th)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Table headers (th)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Table headers (th) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 5: Tables",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Table headers (th)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Table rows (tr)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Table rows (tr)",
+            "Practical applications of Table rows (tr)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Table rows (tr)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Table rows (tr) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 5: Tables",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Table rows (tr)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Table data (td)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Table data (td)",
+            "Practical applications of Table data (td)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Table data (td)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Table data (td) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 5: Tables",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Table data (td)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Spanning rows and columns (rowspan, colspan attributes)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Spanning rows and columns (rowspan, colspan attributes)",
+            "Practical applications of Spanning rows and columns (rowspan, colspan attributes)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Spanning rows and columns (rowspan, colspan attributes)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Spanning rows and columns (rowspan, colspan attributes) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 5: Tables",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Spanning rows and columns (rowspan, colspan attributes)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 6,
+          "lesson_title": "Table captions (caption tag)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Table captions (caption tag)",
+            "Practical applications of Table captions (caption tag)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Table captions (caption tag)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Table captions (caption tag) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 5: Tables",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Table captions (caption tag)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        }
+      ]
+    },
+    "unit_6": {
+      "unit_title": "Day 6: Forms - Input Types",
+      "unit_objective": "Master day 6: forms - input types concepts and achieve: Create HTML forms to collect user input., Utilize different input types to gather various forms of data.",
+      "unit_outcomes": [
+        "Create HTML forms to collect user input.",
+        "Utilize different input types to gather various forms of data.",
+        "Properly label form elements for accessibility and usability.",
+        "Set placeholder text and require specific fields."
+      ],
+      "unit_duration": "0.8 hours",
+      "total_lessons": 6,
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Creating forms (form tag - action, method attributes)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Creating forms (form tag - action, method attributes)",
+            "Practical applications of Creating forms (form tag - action, method attributes)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Creating forms (form tag - action, method attributes)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Creating forms (form tag - action, method attributes) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Basic computer literacy",
+            "Willingness to learn"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Creating forms (form tag - action, method attributes)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Input types (text, password, email, number, date, checkbox, radio, file)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Input types (text, password, email, number, date, checkbox, radio, file)",
+            "Practical applications of Input types (text, password, email, number, date, checkbox, radio, file)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Input types (text, password, email, number, date, checkbox, radio, file)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Input types (text, password, email, number, date, checkbox, radio, file) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 6: Forms - Input Types",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Input types (text, password, email, number, date, checkbox, radio, file)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Labeling form elements (label tag - for attribute)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Hands-on Practice",
+            "Experimental Learning",
+            "Skill Application"
+          ],
+          "important_topics": [
+            "Understanding Labeling form elements (label tag - for attribute)",
+            "Practical applications of Labeling form elements (label tag - for attribute)",
+            "Deep dive into Hands-on Practice",
+            "Deep dive into Experimental Learning"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Labeling form elements (label tag - for attribute)",
+            "Apply Hands-on Practice in practical scenarios",
+            "Demonstrate proficiency in Labeling form elements (label tag - for attribute) techniques",
+            "Analyze relationships between Hands-on Practice and Experimental Learning"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 6: Forms - Input Types",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Labeling form elements (label tag - for attribute)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Placeholder text (placeholder attribute)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Placeholder text (placeholder attribute)",
+            "Practical applications of Placeholder text (placeholder attribute)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Placeholder text (placeholder attribute)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Placeholder text (placeholder attribute) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 6: Forms - Input Types",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Placeholder text (placeholder attribute)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Required fields (required attribute)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Required fields (required attribute)",
+            "Practical applications of Required fields (required attribute)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Required fields (required attribute)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Required fields (required attribute) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 6: Forms - Input Types",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Required fields (required attribute)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 6,
+          "lesson_title": "Using the 'name' attribute for form data submission",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Using the 'name' attribute for form data submission",
+            "Practical applications of Using the 'name' attribute for form data submission",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Using the 'name' attribute for form data submission",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Using the 'name' attribute for form data submission techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 6: Forms - Input Types",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Using the 'name' attribute for form data submission",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        }
+      ]
+    },
+    "unit_7": {
+      "unit_title": "Day 7: Forms - Other Elements and Attributes",
+      "unit_objective": "Master day 7: forms - other elements and attributes concepts and achieve: Implement textareas for multi-line text input., Create select dropdowns to provide users with a list of options.",
+      "unit_outcomes": [
+        "Implement textareas for multi-line text input.",
+        "Create select dropdowns to provide users with a list of options.",
+        "Create different types of buttons for form submission and other actions.",
+        "Organize form elements into fieldsets with legends.",
+        "Utilize form validation attributes to ensure data integrity."
+      ],
+      "unit_duration": "0.8 hours",
+      "total_lessons": 6,
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Textarea (textarea tag - rows, cols)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Textarea (textarea tag - rows, cols)",
+            "Practical applications of Textarea (textarea tag - rows, cols)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Textarea (textarea tag - rows, cols)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Textarea (textarea tag - rows, cols) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Basic computer literacy",
+            "Willingness to learn"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Textarea (textarea tag - rows, cols)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Select dropdowns (select, option tags)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Select dropdowns (select, option tags)",
+            "Practical applications of Select dropdowns (select, option tags)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Select dropdowns (select, option tags)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Select dropdowns (select, option tags) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 7: Forms - Other Elements and Attributes",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Select dropdowns (select, option tags)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Button (button tag - type attribute)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Button (button tag - type attribute)",
+            "Practical applications of Button (button tag - type attribute)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Button (button tag - type attribute)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Button (button tag - type attribute) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 7: Forms - Other Elements and Attributes",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Button (button tag - type attribute)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Fieldsets and Legends (fieldset, legend tags)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Fieldsets and Legends (fieldset, legend tags)",
+            "Practical applications of Fieldsets and Legends (fieldset, legend tags)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Fieldsets and Legends (fieldset, legend tags)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Fieldsets and Legends (fieldset, legend tags) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 7: Forms - Other Elements and Attributes",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Fieldsets and Legends (fieldset, legend tags)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Form validation attributes (min, max, pattern)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Form validation attributes (min, max, pattern)",
+            "Practical applications of Form validation attributes (min, max, pattern)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Form validation attributes (min, max, pattern)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Form validation attributes (min, max, pattern) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 7: Forms - Other Elements and Attributes",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Form validation attributes (min, max, pattern)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 6,
+          "lesson_title": "Understanding form submission",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Understanding form submission",
+            "Practical applications of Understanding form submission",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Understanding form submission",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Understanding form submission techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 7: Forms - Other Elements and Attributes",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Understanding form submission",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        }
+      ]
+    },
+    "unit_8": {
+      "unit_title": "Day 8: Divs and Spans",
+      "unit_objective": "Master day 8: divs and spans concepts and achieve: Differentiate between block-level and inline elements., Use divs to create structural sections within a webpage.",
+      "unit_outcomes": [
+        "Differentiate between block-level and inline elements.",
+        "Use divs to create structural sections within a webpage.",
+        "Use spans to style specific inline text elements.",
+        "Nest divs and spans to achieve complex layouts.",
+        "Understand the basic principles of applying CSS classes and IDs to HTML elements."
+      ],
+      "unit_duration": "0.8 hours",
+      "total_lessons": 6,
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Understanding the div tag (block-level element)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Understanding the div tag (block-level element)",
+            "Practical applications of Understanding the div tag (block-level element)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Understanding the div tag (block-level element)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Understanding the div tag (block-level element) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Basic computer literacy",
+            "Willingness to learn"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Understanding the div tag (block-level element)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Understanding the span tag (inline element)",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Understanding the span tag (inline element)",
+            "Practical applications of Understanding the span tag (inline element)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Understanding the span tag (inline element)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Understanding the span tag (inline element) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 8: Divs and Spans",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Understanding the span tag (inline element)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Using divs for layout and structure",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Using divs for layout and structure",
+            "Practical applications of Using divs for layout and structure",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Using divs for layout and structure",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Using divs for layout and structure techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 8: Divs and Spans",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Using divs for layout and structure",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Using spans for styling inline elements",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Using spans for styling inline elements",
+            "Practical applications of Using spans for styling inline elements",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Using spans for styling inline elements",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Using spans for styling inline elements techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 8: Divs and Spans",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Using spans for styling inline elements",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Nesting divs and spans",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Nesting divs and spans",
+            "Practical applications of Nesting divs and spans",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Nesting divs and spans",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Nesting divs and spans techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 8: Divs and Spans",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Nesting divs and spans",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 6,
+          "lesson_title": "Introduction to the concept of CSS classes and IDs",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Fundamental Principles",
+            "Basic Terminology",
+            "Course Overview"
+          ],
+          "important_topics": [
+            "Understanding Introduction to the concept of CSS classes and IDs",
+            "Practical applications of Introduction to the concept of CSS classes and IDs",
+            "Deep dive into Fundamental Principles",
+            "Deep dive into Basic Terminology"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Introduction to the concept of CSS classes and IDs",
+            "Apply Fundamental Principles in practical scenarios",
+            "Demonstrate proficiency in Introduction to the concept of CSS classes and IDs techniques",
+            "Analyze relationships between Fundamental Principles and Basic Terminology"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 8: Divs and Spans",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Introduction to the concept of CSS classes and IDs",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        }
+      ]
+    },
+    "unit_9": {
+      "unit_title": "Day 9: HTML5 Semantic Elements (Advanced)",
+      "unit_objective": "Master day 9: html5 semantic elements (advanced) concepts and achieve: Confidently use HTML5 semantic elements to create well-structured and accessible web pages., Understand the specific purpose of each element and how it contributes to the overall meaning of the content.",
+      "unit_outcomes": [
+        "Confidently use HTML5 semantic elements to create well-structured and accessible web pages.",
+        "Understand the specific purpose of each element and how it contributes to the overall meaning of the content.",
+        "Apply semantic elements to improve SEO and accessibility."
+      ],
+      "unit_duration": "0.8 hours",
+      "total_lessons": 6,
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "More in-depth look at article, aside, nav, header, footer, section, main",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding More in-depth look at article, aside, nav, header, footer, section, main",
+            "Practical applications of More in-depth look at article, aside, nav, header, footer, section, main",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of More in-depth look at article, aside, nav, header, footer, section, main",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in More in-depth look at article, aside, nav, header, footer, section, main techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Basic computer literacy",
+            "Willingness to learn"
+          ],
+          "assessment_methods": [
+            "Practical exercise on More in-depth look at article, aside, nav, header, footer, section, main",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "The `figure` and `figcaption` elements",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding The `figure` and `figcaption` elements",
+            "Practical applications of The `figure` and `figcaption` elements",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of The `figure` and `figcaption` elements",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in The `figure` and `figcaption` elements techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 9: HTML5 Semantic Elements (Advanced)",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on The `figure` and `figcaption` elements",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "The `mark` element",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding The `mark` element",
+            "Practical applications of The `mark` element",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of The `mark` element",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in The `mark` element techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 9: HTML5 Semantic Elements (Advanced)",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on The `mark` element",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "The `time` element",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding The `time` element",
+            "Practical applications of The `time` element",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of The `time` element",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in The `time` element techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 9: HTML5 Semantic Elements (Advanced)",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on The `time` element",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "When and how to use these elements effectively",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding When and how to use these elements effectively",
+            "Practical applications of When and how to use these elements effectively",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of When and how to use these elements effectively",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in When and how to use these elements effectively techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 9: HTML5 Semantic Elements (Advanced)",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on When and how to use these elements effectively",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 6,
+          "lesson_title": "Accessibility best practices for semantic elements",
+          "lesson_duration": "0.1 hours",
+          "key_concepts": [
+            "Skill Development",
+            "Application Exercises",
+            "Practical Scenarios"
+          ],
+          "important_topics": [
+            "Understanding Accessibility best practices for semantic elements",
+            "Practical applications of Accessibility best practices for semantic elements",
+            "Deep dive into Skill Development",
+            "Deep dive into Application Exercises"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Accessibility best practices for semantic elements",
+            "Apply Skill Development in practical scenarios",
+            "Demonstrate proficiency in Accessibility best practices for semantic elements techniques",
+            "Analyze relationships between Skill Development and Application Exercises"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 9: HTML5 Semantic Elements (Advanced)",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Accessibility best practices for semantic elements",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        }
+      ]
+    },
+    "unit_10": {
+      "unit_title": "Day 10: Review and Project",
+      "unit_objective": "Master day 10: review and project concepts and achieve: Reinforce understanding of all HTML concepts covered in the past 9 days., Apply acquired knowledge to build a functional webpage.",
+      "unit_outcomes": [
+        "Reinforce understanding of all HTML concepts covered in the past 9 days.",
+        "Apply acquired knowledge to build a functional webpage.",
+        "Develop problem-solving skills for debugging HTML code.",
+        "Identify resources for continued learning and improvement."
+      ],
+      "unit_duration": "0.8 hours",
+      "total_lessons": 5,
+      "lessons": [
+        {
+          "lesson_number": 1,
+          "lesson_title": "Review of all HTML concepts covered",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Review of all HTML concepts covered",
+            "Practical applications of Review of all HTML concepts covered",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Review of all HTML concepts covered",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Review of all HTML concepts covered techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Basic computer literacy",
+            "Willingness to learn"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Review of all HTML concepts covered",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 2,
+          "lesson_title": "Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page)",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concepts",
+            "Fundamental Techniques",
+            "Essential Skills",
+            "Practical Implementation",
+            "Real-world Application"
+          ],
+          "important_topics": [
+            "Understanding Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page)",
+            "Practical applications of Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page)",
+            "Deep dive into Core Concepts",
+            "Deep dive into Fundamental Techniques"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page)",
+            "Apply Core Concepts in practical scenarios",
+            "Demonstrate proficiency in Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page) techniques",
+            "Analyze relationships between Core Concepts and Fundamental Techniques"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 10: Review and Project",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 3,
+          "lesson_title": "Debugging and troubleshooting common HTML errors",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Debugging and troubleshooting common HTML errors",
+            "Practical applications of Debugging and troubleshooting common HTML errors",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Debugging and troubleshooting common HTML errors",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Debugging and troubleshooting common HTML errors techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 10: Review and Project",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Debugging and troubleshooting common HTML errors",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 4,
+          "lesson_title": "Resources for further learning (HTML documentation, online courses)",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Resources for further learning (HTML documentation, online courses)",
+            "Practical applications of Resources for further learning (HTML documentation, online courses)",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Resources for further learning (HTML documentation, online courses)",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Resources for further learning (HTML documentation, online courses) techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 10: Review and Project",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Resources for further learning (HTML documentation, online courses)",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        },
+        {
+          "lesson_number": 5,
+          "lesson_title": "Q&A session",
+          "lesson_duration": "0.2 hours",
+          "key_concepts": [
+            "Core Concept 1",
+            "Core Concept 2",
+            "Core Concept 3"
+          ],
+          "important_topics": [
+            "Understanding Q&A session",
+            "Practical applications of Q&A session",
+            "Deep dive into Core Concept 1",
+            "Deep dive into Core Concept 2"
+          ],
+          "time_breakdown": {
+            "theory_concepts": "2 minutes",
+            "practical_exercises": "3 minutes",
+            "examples_demonstrations": "1 minutes",
+            "review_assessment": "0 minutes"
+          },
+          "learning_objectives": [
+            "Understand the core principles of Q&A session",
+            "Apply Core Concept 1 in practical scenarios",
+            "Demonstrate proficiency in Q&A session techniques",
+            "Analyze relationships between Core Concept 1 and Core Concept 2"
+          ],
+          "prerequisites": [
+            "Completion of previous lessons in Day 10: Review and Project",
+            "Understanding of fundamental concepts covered earlier",
+            "Basic practical skills from preceding lessons"
+          ],
+          "assessment_methods": [
+            "Practical exercise on Q&A session",
+            "Concept understanding quiz",
+            "Hands-on project application",
+            "Peer review and discussion"
+          ]
+        }
+      ]
+    }
+  }
+}

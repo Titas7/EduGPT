@@ -1,0 +1,1742 @@
+🎓 COMPREHENSIVE LESSON PLAN
+============================================================
+
+COURSE: html basics in 10 days
+TOTAL DURATION: 8.0 hours
+TOTAL UNITS: 10
+GENERATED: 2025-10-15
+
+============================================================
+DETAILED UNIT-BY-UNIT LESSON PLAN
+============================================================
+
+📚 DAY 1: INTRODUCTION TO HTML AND BASIC STRUCTURE
+--------------------------------------------------
+Unit Objective: Master day 1: introduction to html and basic structure concepts and achieve: Understand the fundamental purpose of HTML., Set up a development environment for writing and viewing HTML.
+Duration: 0.8 hours | Lessons: 5
+
+Unit Outcomes:
+  • Understand the fundamental purpose of HTML.
+  • Set up a development environment for writing and viewing HTML.
+  • Create a basic HTML document with the essential structural tags.
+  • Distinguish between HTML elements and attributes.
+
+  📖 LESSON 1: What is HTML? (Definition, history, purpose)
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding What is HTML? (Definition, history, purpose)
+       • Practical applications of What is HTML? (Definition, history, purpose)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of What is HTML? (Definition, history, purpose)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in What is HTML? (Definition, history, purpose) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 2: Setting up your environment (Text editors, browsers)
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Setting up your environment (Text editors, browsers)
+       • Practical applications of Setting up your environment (Text editors, browsers)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Setting up your environment (Text editors, browsers)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Setting up your environment (Text editors, browsers) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 3: Basic HTML structure (DOCTYPE, html, head, body tags)
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concepts
+       • Fundamental Techniques
+       • Essential Skills
+
+     Important Topics:
+       • Understanding Basic HTML structure (DOCTYPE, html, head, body tags)
+       • Practical applications of Basic HTML structure (DOCTYPE, html, head, body tags)
+       • Deep dive into Core Concepts
+       • Deep dive into Fundamental Techniques
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Basic HTML structure (DOCTYPE, html, head, body tags)
+       • Apply Core Concepts in practical scenarios
+       • Demonstrate proficiency in Basic HTML structure (DOCTYPE, html, head, body tags) techniques
+       • Analyze relationships between Core Concepts and Fundamental Techniques
+
+  ----------------------------------------
+
+  📖 LESSON 4: Understanding elements and attributes
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Understanding elements and attributes
+       • Practical applications of Understanding elements and attributes
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Understanding elements and attributes
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Understanding elements and attributes techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 5: Writing your first HTML document and displaying it in a browser
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Writing your first HTML document and displaying it in a browser
+       • Practical applications of Writing your first HTML document and displaying it in a browser
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Writing your first HTML document and displaying it in a browser
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Writing your first HTML document and displaying it in a browser techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+============================================================
+
+📚 DAY 2: TEXT FORMATTING AND SEMANTIC ELEMENTS
+--------------------------------------------------
+Unit Objective: Master day 2: text formatting and semantic elements concepts and achieve: Format text using heading and paragraph tags., Apply emphasis and importance to text using semantic tags.
+Duration: 0.8 hours | Lessons: 5
+
+Unit Outcomes:
+  • Format text using heading and paragraph tags.
+  • Apply emphasis and importance to text using semantic tags.
+  • Utilize line breaks and horizontal rules for visual structure.
+  • Understand and implement semantic elements to improve HTML structure and SEO.
+
+  📖 LESSON 1: Heading tags (h1-h6)
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Heading tags (h1-h6)
+       • Practical applications of Heading tags (h1-h6)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Heading tags (h1-h6)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Heading tags (h1-h6) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 2: Paragraph tag (p)
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Paragraph tag (p)
+       • Practical applications of Paragraph tag (p)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Paragraph tag (p)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Paragraph tag (p) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 3: Emphasis (em) and Strong (strong) tags
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Emphasis (em) and Strong (strong) tags
+       • Practical applications of Emphasis (em) and Strong (strong) tags
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Emphasis (em) and Strong (strong) tags
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Emphasis (em) and Strong (strong) tags techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 4: Line breaks (br) and Horizontal rules (hr)
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Line breaks (br) and Horizontal rules (hr)
+       • Practical applications of Line breaks (br) and Horizontal rules (hr)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Line breaks (br) and Horizontal rules (hr)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Line breaks (br) and Horizontal rules (hr) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 5: Semantic elements (article, aside, nav, header, footer, section)
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Semantic elements (article, aside, nav, header, footer, section)
+       • Practical applications of Semantic elements (article, aside, nav, header, footer, section)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Semantic elements (article, aside, nav, header, footer, section)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Semantic elements (article, aside, nav, header, footer, section) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+============================================================
+
+📚 DAY 3: LISTS AND LINKS
+--------------------------------------------------
+Unit Objective: Master day 3: lists and links concepts and achieve: Create different types of lists to organize information., Create hyperlinks to connect to other web pages and resources.
+Duration: 0.8 hours | Lessons: 6
+
+Unit Outcomes:
+  • Create different types of lists to organize information.
+  • Create hyperlinks to connect to other web pages and resources.
+  • Implement internal and external links effectively.
+  • Use anchor links to navigate within a single webpage.
+
+  📖 LESSON 1: Unordered lists (ul, li)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Unordered lists (ul, li)
+       • Practical applications of Unordered lists (ul, li)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Unordered lists (ul, li)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Unordered lists (ul, li) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 2: Ordered lists (ol, li)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Ordered lists (ol, li)
+       • Practical applications of Ordered lists (ol, li)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Ordered lists (ol, li)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Ordered lists (ol, li) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 3: Definition lists (dl, dt, dd)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Definition lists (dl, dt, dd)
+       • Practical applications of Definition lists (dl, dt, dd)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Definition lists (dl, dt, dd)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Definition lists (dl, dt, dd) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 4: Creating hyperlinks (a tag - href, target attributes)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Creating hyperlinks (a tag - href, target attributes)
+       • Practical applications of Creating hyperlinks (a tag - href, target attributes)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Creating hyperlinks (a tag - href, target attributes)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Creating hyperlinks (a tag - href, target attributes) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 5: Linking to internal and external resources
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Linking to internal and external resources
+       • Practical applications of Linking to internal and external resources
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Linking to internal and external resources
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Linking to internal and external resources techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 6: Anchor links (linking to specific sections within a page)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Anchor links (linking to specific sections within a page)
+       • Practical applications of Anchor links (linking to specific sections within a page)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Anchor links (linking to specific sections within a page)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Anchor links (linking to specific sections within a page) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+============================================================
+
+📚 DAY 4: IMAGES AND MEDIA
+--------------------------------------------------
+Unit Objective: Master day 4: images and media concepts and achieve: Embed images into web pages using the `img` tag., Choose the appropriate image format for different use cases.
+Duration: 0.8 hours | Lessons: 6
+
+Unit Outcomes:
+  • Embed images into web pages using the `img` tag.
+  • Choose the appropriate image format for different use cases.
+  • Control the size and placement of images.
+  • Embed video and audio into web pages using the `video` and `audio` tags.
+  • Understand the basics of providing alternative text and captions for accessibility.
+
+  📖 LESSON 1: Inserting images (img tag - src, alt attributes)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Inserting images (img tag - src, alt attributes)
+       • Practical applications of Inserting images (img tag - src, alt attributes)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Inserting images (img tag - src, alt attributes)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Inserting images (img tag - src, alt attributes) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 2: Image formats (JPEG, PNG, GIF, SVG)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Image formats (JPEG, PNG, GIF, SVG)
+       • Practical applications of Image formats (JPEG, PNG, GIF, SVG)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Image formats (JPEG, PNG, GIF, SVG)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Image formats (JPEG, PNG, GIF, SVG) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 3: Controlling image size and alignment
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Controlling image size and alignment
+       • Practical applications of Controlling image size and alignment
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Controlling image size and alignment
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Controlling image size and alignment techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 4: Adding video (video tag - src, controls, width, height)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Adding video (video tag - src, controls, width, height)
+       • Practical applications of Adding video (video tag - src, controls, width, height)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Adding video (video tag - src, controls, width, height)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Adding video (video tag - src, controls, width, height) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 5: Adding audio (audio tag - src, controls)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Adding audio (audio tag - src, controls)
+       • Practical applications of Adding audio (audio tag - src, controls)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Adding audio (audio tag - src, controls)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Adding audio (audio tag - src, controls) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 6: Understanding accessibility considerations for media
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Understanding accessibility considerations for media
+       • Practical applications of Understanding accessibility considerations for media
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Understanding accessibility considerations for media
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Understanding accessibility considerations for media techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+============================================================
+
+📚 DAY 5: TABLES
+--------------------------------------------------
+Unit Objective: Master day 5: tables concepts and achieve: Construct tables to display data in a structured format., Utilize table headers, rows, and data cells effectively.
+Duration: 0.8 hours | Lessons: 6
+
+Unit Outcomes:
+  • Construct tables to display data in a structured format.
+  • Utilize table headers, rows, and data cells effectively.
+  • Span rows and columns to create complex table layouts.
+  • Add a descriptive caption to tables.
+
+  📖 LESSON 1: Creating tables (table, tr, th, td tags)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Creating tables (table, tr, th, td tags)
+       • Practical applications of Creating tables (table, tr, th, td tags)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Creating tables (table, tr, th, td tags)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Creating tables (table, tr, th, td tags) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 2: Table headers (th)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Table headers (th)
+       • Practical applications of Table headers (th)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Table headers (th)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Table headers (th) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 3: Table rows (tr)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Table rows (tr)
+       • Practical applications of Table rows (tr)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Table rows (tr)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Table rows (tr) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 4: Table data (td)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Table data (td)
+       • Practical applications of Table data (td)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Table data (td)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Table data (td) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 5: Spanning rows and columns (rowspan, colspan attributes)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Spanning rows and columns (rowspan, colspan attributes)
+       • Practical applications of Spanning rows and columns (rowspan, colspan attributes)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Spanning rows and columns (rowspan, colspan attributes)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Spanning rows and columns (rowspan, colspan attributes) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 6: Table captions (caption tag)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Table captions (caption tag)
+       • Practical applications of Table captions (caption tag)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Table captions (caption tag)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Table captions (caption tag) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+============================================================
+
+📚 DAY 6: FORMS - INPUT TYPES
+--------------------------------------------------
+Unit Objective: Master day 6: forms - input types concepts and achieve: Create HTML forms to collect user input., Utilize different input types to gather various forms of data.
+Duration: 0.8 hours | Lessons: 6
+
+Unit Outcomes:
+  • Create HTML forms to collect user input.
+  • Utilize different input types to gather various forms of data.
+  • Properly label form elements for accessibility and usability.
+  • Set placeholder text and require specific fields.
+
+  📖 LESSON 1: Creating forms (form tag - action, method attributes)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Creating forms (form tag - action, method attributes)
+       • Practical applications of Creating forms (form tag - action, method attributes)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Creating forms (form tag - action, method attributes)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Creating forms (form tag - action, method attributes) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 2: Input types (text, password, email, number, date, checkbox, radio, file)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Input types (text, password, email, number, date, checkbox, radio, file)
+       • Practical applications of Input types (text, password, email, number, date, checkbox, radio, file)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Input types (text, password, email, number, date, checkbox, radio, file)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Input types (text, password, email, number, date, checkbox, radio, file) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 3: Labeling form elements (label tag - for attribute)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Hands-on Practice
+       • Experimental Learning
+       • Skill Application
+
+     Important Topics:
+       • Understanding Labeling form elements (label tag - for attribute)
+       • Practical applications of Labeling form elements (label tag - for attribute)
+       • Deep dive into Hands-on Practice
+       • Deep dive into Experimental Learning
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Labeling form elements (label tag - for attribute)
+       • Apply Hands-on Practice in practical scenarios
+       • Demonstrate proficiency in Labeling form elements (label tag - for attribute) techniques
+       • Analyze relationships between Hands-on Practice and Experimental Learning
+
+  ----------------------------------------
+
+  📖 LESSON 4: Placeholder text (placeholder attribute)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Placeholder text (placeholder attribute)
+       • Practical applications of Placeholder text (placeholder attribute)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Placeholder text (placeholder attribute)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Placeholder text (placeholder attribute) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 5: Required fields (required attribute)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Required fields (required attribute)
+       • Practical applications of Required fields (required attribute)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Required fields (required attribute)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Required fields (required attribute) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 6: Using the 'name' attribute for form data submission
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Using the 'name' attribute for form data submission
+       • Practical applications of Using the 'name' attribute for form data submission
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Using the 'name' attribute for form data submission
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Using the 'name' attribute for form data submission techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+============================================================
+
+📚 DAY 7: FORMS - OTHER ELEMENTS AND ATTRIBUTES
+--------------------------------------------------
+Unit Objective: Master day 7: forms - other elements and attributes concepts and achieve: Implement textareas for multi-line text input., Create select dropdowns to provide users with a list of options.
+Duration: 0.8 hours | Lessons: 6
+
+Unit Outcomes:
+  • Implement textareas for multi-line text input.
+  • Create select dropdowns to provide users with a list of options.
+  • Create different types of buttons for form submission and other actions.
+  • Organize form elements into fieldsets with legends.
+  • Utilize form validation attributes to ensure data integrity.
+
+  📖 LESSON 1: Textarea (textarea tag - rows, cols)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Textarea (textarea tag - rows, cols)
+       • Practical applications of Textarea (textarea tag - rows, cols)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Textarea (textarea tag - rows, cols)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Textarea (textarea tag - rows, cols) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 2: Select dropdowns (select, option tags)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Select dropdowns (select, option tags)
+       • Practical applications of Select dropdowns (select, option tags)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Select dropdowns (select, option tags)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Select dropdowns (select, option tags) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 3: Button (button tag - type attribute)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Button (button tag - type attribute)
+       • Practical applications of Button (button tag - type attribute)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Button (button tag - type attribute)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Button (button tag - type attribute) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 4: Fieldsets and Legends (fieldset, legend tags)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Fieldsets and Legends (fieldset, legend tags)
+       • Practical applications of Fieldsets and Legends (fieldset, legend tags)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Fieldsets and Legends (fieldset, legend tags)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Fieldsets and Legends (fieldset, legend tags) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 5: Form validation attributes (min, max, pattern)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Form validation attributes (min, max, pattern)
+       • Practical applications of Form validation attributes (min, max, pattern)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Form validation attributes (min, max, pattern)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Form validation attributes (min, max, pattern) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 6: Understanding form submission
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Understanding form submission
+       • Practical applications of Understanding form submission
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Understanding form submission
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Understanding form submission techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+============================================================
+
+📚 DAY 8: DIVS AND SPANS
+--------------------------------------------------
+Unit Objective: Master day 8: divs and spans concepts and achieve: Differentiate between block-level and inline elements., Use divs to create structural sections within a webpage.
+Duration: 0.8 hours | Lessons: 6
+
+Unit Outcomes:
+  • Differentiate between block-level and inline elements.
+  • Use divs to create structural sections within a webpage.
+  • Use spans to style specific inline text elements.
+  • Nest divs and spans to achieve complex layouts.
+  • Understand the basic principles of applying CSS classes and IDs to HTML elements.
+
+  📖 LESSON 1: Understanding the div tag (block-level element)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Understanding the div tag (block-level element)
+       • Practical applications of Understanding the div tag (block-level element)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Understanding the div tag (block-level element)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Understanding the div tag (block-level element) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 2: Understanding the span tag (inline element)
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Understanding the span tag (inline element)
+       • Practical applications of Understanding the span tag (inline element)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Understanding the span tag (inline element)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Understanding the span tag (inline element) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 3: Using divs for layout and structure
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Using divs for layout and structure
+       • Practical applications of Using divs for layout and structure
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Using divs for layout and structure
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Using divs for layout and structure techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 4: Using spans for styling inline elements
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Using spans for styling inline elements
+       • Practical applications of Using spans for styling inline elements
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Using spans for styling inline elements
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Using spans for styling inline elements techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 5: Nesting divs and spans
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Nesting divs and spans
+       • Practical applications of Nesting divs and spans
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Nesting divs and spans
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Nesting divs and spans techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 6: Introduction to the concept of CSS classes and IDs
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Fundamental Principles
+       • Basic Terminology
+       • Course Overview
+
+     Important Topics:
+       • Understanding Introduction to the concept of CSS classes and IDs
+       • Practical applications of Introduction to the concept of CSS classes and IDs
+       • Deep dive into Fundamental Principles
+       • Deep dive into Basic Terminology
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Introduction to the concept of CSS classes and IDs
+       • Apply Fundamental Principles in practical scenarios
+       • Demonstrate proficiency in Introduction to the concept of CSS classes and IDs techniques
+       • Analyze relationships between Fundamental Principles and Basic Terminology
+
+  ----------------------------------------
+
+============================================================
+
+📚 DAY 9: HTML5 SEMANTIC ELEMENTS (ADVANCED)
+--------------------------------------------------
+Unit Objective: Master day 9: html5 semantic elements (advanced) concepts and achieve: Confidently use HTML5 semantic elements to create well-structured and accessible web pages., Understand the specific purpose of each element and how it contributes to the overall meaning of the content.
+Duration: 0.8 hours | Lessons: 6
+
+Unit Outcomes:
+  • Confidently use HTML5 semantic elements to create well-structured and accessible web pages.
+  • Understand the specific purpose of each element and how it contributes to the overall meaning of the content.
+  • Apply semantic elements to improve SEO and accessibility.
+
+  📖 LESSON 1: More in-depth look at article, aside, nav, header, footer, section, main
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding More in-depth look at article, aside, nav, header, footer, section, main
+       • Practical applications of More in-depth look at article, aside, nav, header, footer, section, main
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of More in-depth look at article, aside, nav, header, footer, section, main
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in More in-depth look at article, aside, nav, header, footer, section, main techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 2: The `figure` and `figcaption` elements
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding The `figure` and `figcaption` elements
+       • Practical applications of The `figure` and `figcaption` elements
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of The `figure` and `figcaption` elements
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in The `figure` and `figcaption` elements techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 3: The `mark` element
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding The `mark` element
+       • Practical applications of The `mark` element
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of The `mark` element
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in The `mark` element techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 4: The `time` element
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding The `time` element
+       • Practical applications of The `time` element
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of The `time` element
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in The `time` element techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 5: When and how to use these elements effectively
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding When and how to use these elements effectively
+       • Practical applications of When and how to use these elements effectively
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of When and how to use these elements effectively
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in When and how to use these elements effectively techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 6: Accessibility best practices for semantic elements
+     Duration: 0.1 hours
+
+     Key Concepts:
+       • Skill Development
+       • Application Exercises
+       • Practical Scenarios
+
+     Important Topics:
+       • Understanding Accessibility best practices for semantic elements
+       • Practical applications of Accessibility best practices for semantic elements
+       • Deep dive into Skill Development
+       • Deep dive into Application Exercises
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Accessibility best practices for semantic elements
+       • Apply Skill Development in practical scenarios
+       • Demonstrate proficiency in Accessibility best practices for semantic elements techniques
+       • Analyze relationships between Skill Development and Application Exercises
+
+  ----------------------------------------
+
+============================================================
+
+📚 DAY 10: REVIEW AND PROJECT
+--------------------------------------------------
+Unit Objective: Master day 10: review and project concepts and achieve: Reinforce understanding of all HTML concepts covered in the past 9 days., Apply acquired knowledge to build a functional webpage.
+Duration: 0.8 hours | Lessons: 5
+
+Unit Outcomes:
+  • Reinforce understanding of all HTML concepts covered in the past 9 days.
+  • Apply acquired knowledge to build a functional webpage.
+  • Develop problem-solving skills for debugging HTML code.
+  • Identify resources for continued learning and improvement.
+
+  📖 LESSON 1: Review of all HTML concepts covered
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Review of all HTML concepts covered
+       • Practical applications of Review of all HTML concepts covered
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Review of all HTML concepts covered
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Review of all HTML concepts covered techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 2: Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page)
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concepts
+       • Fundamental Techniques
+       • Essential Skills
+       • Practical Implementation
+       • Real-world Application
+
+     Important Topics:
+       • Understanding Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page)
+       • Practical applications of Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page)
+       • Deep dive into Core Concepts
+       • Deep dive into Fundamental Techniques
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page)
+       • Apply Core Concepts in practical scenarios
+       • Demonstrate proficiency in Practice Project: Building a basic webpage from scratch (e.g., a simple personal portfolio or a product page) techniques
+       • Analyze relationships between Core Concepts and Fundamental Techniques
+
+  ----------------------------------------
+
+  📖 LESSON 3: Debugging and troubleshooting common HTML errors
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Debugging and troubleshooting common HTML errors
+       • Practical applications of Debugging and troubleshooting common HTML errors
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Debugging and troubleshooting common HTML errors
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Debugging and troubleshooting common HTML errors techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 4: Resources for further learning (HTML documentation, online courses)
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Resources for further learning (HTML documentation, online courses)
+       • Practical applications of Resources for further learning (HTML documentation, online courses)
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Resources for further learning (HTML documentation, online courses)
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Resources for further learning (HTML documentation, online courses) techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+  📖 LESSON 5: Q&A session
+     Duration: 0.2 hours
+
+     Key Concepts:
+       • Core Concept 1
+       • Core Concept 2
+       • Core Concept 3
+
+     Important Topics:
+       • Understanding Q&A session
+       • Practical applications of Q&A session
+       • Deep dive into Core Concept 1
+       • Deep dive into Core Concept 2
+
+     Time Breakdown:
+       • Theory Concepts: 2 minutes
+       • Practical Exercises: 3 minutes
+       • Examples Demonstrations: 1 minutes
+       • Review Assessment: 0 minutes
+
+     Learning Objectives:
+       • Understand the core principles of Q&A session
+       • Apply Core Concept 1 in practical scenarios
+       • Demonstrate proficiency in Q&A session techniques
+       • Analyze relationships between Core Concept 1 and Core Concept 2
+
+  ----------------------------------------
+
+============================================================
+

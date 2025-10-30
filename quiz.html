@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - EduGenius AI</title>
+    <link rel="stylesheet" href="styles/quiz.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Background Animation -->
+    <div class="background-animation">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+
+    <!-- Header -->
+    <header class="quiz-header">
+        <div class="header-content">
+            <button onclick="goBack()" class="back-btn">
+                <i class="fas fa-arrow-left"></i>
+                Back to Learning
+            </button>
+            <div class="header-title">
+                <h1><i class="fas fa-brain"></i> Knowledge Quiz</h1>
+                <p id="courseTitle">Test Your Understanding</p>
+            </div>
+            <div class="header-actions">
+                <button onclick="toggleDarkMode()" class="theme-btn">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="quiz-container">
+        <!-- Course Overview -->
+        <section class="course-overview-section">
+            <div class="overview-card">
+                <div class="overview-header">
+                    <h2><i class="fas fa-graduation-cap"></i> Learning Goal</h2>
+                    <span class="course-badge" id="courseBadge">Course</span>
+                </div>
+                <div class="overview-content">
+                    <h3 id="learningGoalText">Loading...</h3>
+                    <div class="course-stats">
+                        <div class="stat">
+                            <i class="fas fa-layer-group"></i>
+                            <span id="totalUnits">0 Units</span>
+                        </div>
+                        <div class="stat">
+                            <i class="fas fa-book-open"></i>
+                            <span id="totalLessons">0 Lessons</span>
+                        </div>
+                        <div class="stat">
+                            <i class="fas fa-clock"></i>
+                            <span id="totalDuration">0 hours</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quiz Selection -->
+        <section class="quiz-selection-section">
+            <div class="section-header">
+                <h2><i class="fas fa-tasks"></i> Select Quiz</h2>
+                <p>Choose a unit to test your knowledge</p>
+            </div>
+
+            <div class="units-grid" id="unitsGrid">
+                <!-- Units will be dynamically populated -->
+            </div>
+
+            <!-- Comprehensive Quiz Option -->
+            <div class="comprehensive-quiz">
+                <div class="comprehensive-card">
+                    <div class="comprehensive-icon">
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <div class="comprehensive-content">
+                        <h3>Comprehensive Quiz</h3>
+                        <p>Test your knowledge across all units with a complete assessment</p>
+                        <div class="quiz-meta">
+                            <span class="meta-item">
+                                <i class="fas fa-question-circle"></i>
+                                All units combined
+                            </span>
+                            <span class="meta-item">
+                                <i class="fas fa-clock"></i>
+                                Extended duration
+                            </span>
+                        </div>
+                    </div>
+                    <button class="start-quiz-btn comprehensive-btn" onclick="startComprehensiveQuiz()">
+                        <i class="fas fa-play"></i>
+                        Start Comprehensive Quiz
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Active Quiz Section (Hidden by default) -->
+        <section id="activeQuizSection" class="active-quiz-section hidden">
+            <div class="quiz-header-card">
+                <div class="quiz-info">
+                    <h2 id="activeQuizTitle">Unit Quiz</h2>
+                    <div class="quiz-progress">
+                        <div class="progress-info">
+                            <span>Question <span id="currentQuestionNumber">1</span> of <span id="totalQuestions">10</span></span>
+                            <span id="progressPercent">0%</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="progressFill"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="quiz-stats">
+                    <div class="stat-box">
+                        <i class="fas fa-check-circle"></i>
+                        <span id="correctCount">0</span>
+                        <small>Correct</small>
+                    </div>
+                    <div class="stat-box">
+                        <i class="fas fa-times-circle"></i>
+                        <span id="incorrectCount">0</span>
+                        <small>Incorrect</small>
+                    </div>
+                    <div class="stat-box">
+                        <i class="fas fa-clock"></i>
+                        <span id="timeSpent">0:00</span>
+                        <small>Time</small>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Question Container -->
+            <div class="question-container" id="questionContainer">
+                <!-- Questions will be dynamically populated -->
+            </div>
+
+            <!-- Quiz Navigation -->
+            <div class="quiz-navigation">
+                <button id="prevBtn" class="nav-btn" onclick="previousQuestion()" disabled>
+                    <i class="fas fa-arrow-left"></i>
+                    Previous
+                </button>
+                <button id="nextBtn" class="nav-btn primary" onclick="nextQuestion()">
+                    Next Question
+                    <i class="fas fa-arrow-right"></i>
+                </button>
+                <button id="submitBtn" class="nav-btn success hidden" onclick="submitQuiz()">
+                    Submit Quiz
+                    <i class="fas fa-paper-plane"></i>
+                </button>
+            </div>
+        </section>
+
+        <!-- Results Section (Hidden by default) -->
+        <section id="resultsSection" class="results-section hidden">
+            <div class="results-card">
+                <div class="results-header">
+                    <div class="results-icon">
+                        <i class="fas fa-trophy"></i>
+                    </div>
+                    <h2>Quiz Completed!</h2>
+                    <p id="resultsSubtitle">Great job completing the quiz</p>
+                </div>
+
+                <div class="score-display">
+                    <div class="score-circle">
+                        <div class="score-text">
+                            <span id="scorePercentage">0%</span>
+                            <small>Score</small>
+                        </div>
+                        <svg class="progress-ring" width="120" height="120">
+                            <circle class="progress-ring-circle" stroke-width="8" fill="transparent" r="52" cx="60" cy="60"/>
+                        </svg>
+                    </div>
+                    <div class="score-details">
+                        <div class="score-item">
+                            <span class="score-label">Correct Answers</span>
+                            <span class="score-value" id="correctAnswers">0/0</span>
+                        </div>
+                        <div class="score-item">
+                            <span class="score-label">Time Taken</span>
+                            <span class="score-value" id="timeTaken">0:00</span>
+                        </div>
+                        <div class="score-item">
+                            <span class="score-label">Accuracy</span>
+                            <span class="score-value" id="accuracyRate">0%</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Unit Performance -->
+                <div class="performance-section" id="performanceSection">
+                    <!-- Performance breakdown will be added here -->
+                </div>
+
+                <!-- Recommendations -->
+                <div class="recommendations-section">
+                    <h3><i class="fas fa-lightbulb"></i> Learning Recommendations</h3>
+                    <div class="recommendations-content" id="recommendationsContent">
+                        <!-- Recommendations will be added here -->
+                    </div>
+                </div>
+
+                <!-- Action Buttons -->
+                <div class="results-actions">
+                    <button onclick="retakeQuiz()" class="action-btn primary">
+                        <i class="fas fa-redo"></i>
+                        Retake Quiz
+                    </button>
+                    <button onclick="reviewAnswers()" class="action-btn secondary">
+                        <i class="fas fa-search"></i>
+                        Review Answers
+                    </button>
+                    <button onclick="backToSelection()" class="action-btn">
+                        <i class="fas fa-list"></i>
+                        Back to Quiz Selection
+                    </button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay" class="loading-overlay hidden">
+        <div class="loading-content">
+            <div class="thinking-animation">
+                <i class="fas fa-brain"></i>
+                <div class="thinking-dots">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <p>Preparing your quiz questions...</p>
+        </div>
+    </div>
+
+    <!-- Confetti Celebration -->
+    <canvas id="confettiCanvas"></canvas>
+
+    <script src="scripts/quiz.js"></script>
+</body>
+</html>

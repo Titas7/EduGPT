@@ -1,0 +1,1 @@
+Create a lesson plan for {lesson_id}. Level: {level}. Score: {score}. Return JSON only.
