@@ -32,4 +32,4 @@ EduGPT is an AI-driven study planner that automatically creates personalized **l
 ```bash
 git clone https://github.com/<your-username>/EduGPT.git
 cd EduGPT
-# EduGPT
+
